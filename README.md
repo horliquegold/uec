@@ -1,7 +1,7 @@
 Unitedemiratecoin integration/staging tree
 ================================
 
-https://www.unitedemiratecoin.com
+https://www.unitedemiratecoin.io
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018 Unitedemiratecoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Unitedemiratecoin client sofware, see http://www.unitedemiratecoin.org.
+the Unitedemiratecoin client sofware, see http://www.unitedemiratecoin.io
 
 License
 -------
